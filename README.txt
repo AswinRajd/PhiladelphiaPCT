@@ -1,6 +1,6 @@
 
 TITLE: 
-Church - 100% Fully Responsive Free HTML5 Bootstrap Template
+Church - \
 
 AUTHOR:
 
